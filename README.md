@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Joseph.
 
--Hi, I'm Joseph. A 19yr old who has deep interest in topics like: 
+-Hi, I'm Joseph. A 19yr  old who has deep interest in topics like: 
 
 -Cybersecurity 
 -Cloud-Computing 
@@ -9,7 +9,9 @@
 
 -🔭 I’m currently working on starting my secondary blog which would also serve as an alternative repository.
 
--🔍 I’m currently learning about more front-end framework.
+-🔍 I’m currently learning about more front-end framework and pentesting.
+
+-🎓 I'm a proficient front-end programmer and a skilled offensive-pentester
 
 #### Languages & Framework
 
