@@ -1,6 +1,11 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Joseph.
 
--Hi, I'm Joseph. A 19yr old who has deep interest in topics like cybersecurity, cloud-computing, debian-based machines, and Web 3.0.
+-Hi, I'm Joseph. A 19yr old who has deep interest in topics like: 
+
+-Cybersecurity 
+-Cloud-Computing 
+-Debian-based machines 
+-Web 3.0.
 
 -🔭 I’m currently working on starting my secondary blog which would also serve as an alternative repository.
 
