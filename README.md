@@ -9,7 +9,7 @@
 
 -🔭 I’m currently working on starting my secondary blog which would also serve as an alternative repository.
 
--🔍 I’m currently learning about more front-end framework and Debian based machines. 
+-🔍 I’m currently learning about more front-end framework.
 
 #### Languages & Framework
 
