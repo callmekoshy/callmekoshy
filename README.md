@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Joseph.
 
--Hi, I'm Joseph. A 19yr  old who has deep interest in topics like: 
+-A 19yr  old who has deep interest in topics like: 
 
 -Cybersecurity 
 -Cloud-Computing 
