@@ -1,17 +1,15 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Joseph.
 
--A 19yr  old who has deep interest in topics like: 
-
 -Cybersecurity 
 -Cloud-Computing 
 -Debian-based machines 
 -Web 3.0.
 
--🔭 I’m currently working on starting my secondary blog which would also serve as an alternative repository.
 
--🔍 I’m currently learning about more front-end framework and pentesting.
 
--🎓 I'm a proficient front-end programmer and a skilled offensive-pentester
+
+
+-🎓 Proficient front-end programmer and a skilled offensive-pentester
 
 #### Languages & Framework
 
@@ -30,7 +28,4 @@
 
 
 
-### My GitHub stats.
-<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=callmekoshy&show_icons=true&theme=transparent">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmekoshy">
 
