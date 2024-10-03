@@ -4,7 +4,7 @@
 -Cloud-Computing 
 -Debian-based machines 
 -Web 3.0.
--AI integrated Cybersecurity Research
+-AI-Integrated Cybersecurity Research
 
 
 
