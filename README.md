@@ -1,15 +1,16 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Joseph.
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Joe.
 
 -Cybersecurity 
 -Cloud-Computing 
 -Debian-based machines 
 -Web 3.0.
+-AI integrated Cybersecurity Research
 
 
 
 
 
--🎓 Proficient front-end programmer and a skilled offensive-pentester
+-🎓 Proficient Malware Analyst and a skilled Offensive-Pentester
 
 #### Languages & Framework
 
